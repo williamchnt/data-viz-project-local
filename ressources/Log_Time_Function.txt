@@ -258,3 +258,8 @@
 2021-11-13 :  Execution of FirstLoad in 0.024177074432373047
 2021-11-13 :  Execution of FirstLoad in 0.011998891830444336
 2021-11-13 :  Execution of FirstLoad in 0.0059947967529296875
+2021-11-14 :  Execution of FirstLoad in 140.6978509426117
+2021-11-14 :  Execution of printCityMax in 7.862586975097656
+2021-11-14 :  Execution of FirstLoad in 0.3144216537475586
+2021-11-14 :  Execution of FirstLoad in 0.2834961414337158
+2021-11-14 :  Execution of FirstLoad in 0.5240356922149658
