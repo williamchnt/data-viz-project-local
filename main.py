@@ -700,10 +700,10 @@ def nav():
     st.sidebar.subheader("Navigation")
     rad = st.sidebar.radio("",["Accueil","Rechercher par commune ou département","Rechercher une adresse"])
     st.sidebar.subheader("Selectionner les années")
-    a = st.sidebar.checkbox("2020")
+    a = st.sidebar.checkbox("2020",True)
     b = st.sidebar.checkbox("2019")
     c = st.sidebar.checkbox("2018")
-    d = st.sidebar.checkbox("2017",True)
+    d = st.sidebar.checkbox("2017")
     e = st.sidebar.checkbox("2016")
     return rad,a,b,c,d,e
 
